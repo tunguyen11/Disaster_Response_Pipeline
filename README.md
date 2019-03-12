@@ -18,7 +18,7 @@ Run the following commands in the project's root directory to set up your databa
 
 1.   To run ETL pipeline that preprocess data and upload to database: 
 python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
-2.   To run ML pipeline that trains classifier and saves: 
+2.   To run ML pipeline that trains classifier and saves in a pickle file: 
 python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 3.   Run the following command in the app's directory to run your web:
  python app/run2.py
