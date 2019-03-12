@@ -1,8 +1,7 @@
 
 # Disaster Response Pipeline 
 
-This project is part of Udacity Data Science Nano Degree. The goal of this project is to build a model to classify the message into the multiple-output category and display display the results in a Flask web app where worker can input a new message and get classification results in several categories.
-
+This project is part of Udacity Data Science Nano Degree. The goal of this project is to build a model to classify the message into the multiple-output category and display the results in a Flask web app where a worker can input a new message and get classification results in several categories.
 
 ### Installization 
 * sklearn 
@@ -10,7 +9,7 @@ This project is part of Udacity Data Science Nano Degree. The goal of this proje
 * sqlalchemy 
 * pandas
 * plotly 
-* Flask 
+* flask 
 
 
 ### Instructions:
